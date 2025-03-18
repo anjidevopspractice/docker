@@ -1,0 +1,3 @@
+FROM alamalinux:8
+LABLE AUTHOR="ANJI"\
+      TRINING="DEVOPS"
